@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Customer
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Costumer\ here.\r\n\r\n\ @author\ Brunaldo\ Cimo\r\n
+comment1.params=title\ displayTXT\ username\ password\ prefix\ firstname\ lastname\ email\ customerID\ cardNo
+comment1.target=Customer(java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ java.lang.String,\ int,\ int)
+comment2.params=newName
+comment2.target=void\ setName(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getName()
+comment4.params=
+comment4.target=void\ checkForAgent()
+comment5.params=
+comment5.target=void\ editDetails()
+comment6.params=
+comment6.target=void\ cancelPurchase()
+comment7.params=
+comment7.target=void\ viewEvents()
+comment8.params=
+comment8.target=void\ logOut()
+numComments=9

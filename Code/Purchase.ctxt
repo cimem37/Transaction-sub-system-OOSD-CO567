@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=Purchase
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Purchase\ here.\r\n\ \r\n\ @author\ Brunaldo\ Cimo\r\n
+comment1.params=staffID\ username\ card\ tickets\ dateTime
+comment1.target=Purchase(int,\ java.lang.String,\ CreditCard,\ java.util.List,\ java.time.LocalDateTime)
+numComments=2
