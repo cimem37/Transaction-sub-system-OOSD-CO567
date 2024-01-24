@@ -23,7 +23,7 @@ public class Main
         tickets.add(t2);
         LocalDate date = LocalDate.now();
         CreditCard card = new CreditCard(1, 123, "John Doe", date);
-        Purchase purchase = new Purchase(1, "test", 
+        Transaction purchase = new Purchase(1, "test", 
          card, tickets,  LocalDateTime.now());
         purchase.setPurchase();
         purchase.PrintReceipt();
